@@ -10,10 +10,7 @@
 ->Display video information (title, description, uploader, views, likes, etc.)
 ->Responsive design for various devices
 
-•WEBSITE LINK-
-
-•DEMO VIDEO:
-
+•WEBSITE LINK-file:///D:/COLLEGE%20WORK/Microsoft%20VS%20Code/CODING/index.html
 
 •SCREEN SHOTS:
 1.LANDING PAGE OF SITE
